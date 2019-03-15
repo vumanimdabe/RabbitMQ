@@ -41,29 +41,5 @@ namespace Messenger.Lib.Tests
 
             conn.Received(1).CreateModel();
         }
-
-        [TestMethod]
-        public void Subscriber_Subscribe_With_Valid_Param_Creates_Channel()
-        {
-            var conn = Substitute.For<IConnection>();
-
-            var sender = new Subscriber(conn);
-
-            sender.Subscribe();
-
-            conn.Received(1).CreateModel();
-        }
-
-        [TestMethod]
-        public void Sender_Execute_With_Valid_Param_Declares_Queue()
-        {
-            var conn = Substitute.For<IConnection>();
-
-            var sender = new Sender(conn);
-
-            sender.Execute("vumani");
-
-            conn.CreateModel().Received(1).QueueDeclare();
-        }
     }
 }
