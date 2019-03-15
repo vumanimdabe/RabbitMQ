@@ -1,8 +1,0 @@
-C:\Users\vumanim\source\repos\RabbitMQ\Messenger.Client\bin\Debug\netcoreapp2.1\Messenger.Client.deps.json
-C:\Users\vumanim\source\repos\RabbitMQ\Messenger.Client\bin\Debug\netcoreapp2.1\Messenger.Client.dll
-C:\Users\vumanim\source\repos\RabbitMQ\Messenger.Client\bin\Debug\netcoreapp2.1\Messenger.Client.pdb
-C:\Users\vumanim\source\repos\RabbitMQ\Messenger.Client\obj\Debug\netcoreapp2.1\Messenger.Client.csproj.CoreCompileInputs.cache
-C:\Users\vumanim\source\repos\RabbitMQ\Messenger.Client\obj\Debug\netcoreapp2.1\Messenger.Client.AssemblyInfoInputs.cache
-C:\Users\vumanim\source\repos\RabbitMQ\Messenger.Client\obj\Debug\netcoreapp2.1\Messenger.Client.AssemblyInfo.cs
-C:\Users\vumanim\source\repos\RabbitMQ\Messenger.Client\obj\Debug\netcoreapp2.1\Messenger.Client.dll
-C:\Users\vumanim\source\repos\RabbitMQ\Messenger.Client\obj\Debug\netcoreapp2.1\Messenger.Client.pdb
